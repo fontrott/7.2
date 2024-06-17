@@ -22,11 +22,33 @@ namespace TriangleCalculatorr
         {
             if (double.TryParse(SideATextBox.Text, out double sideA) && double.TryParse(SideBTextBox.Text, out double sideB) && double.TryParse(SideCTextBox.Text, out double sideC))
             {
+
                 SideA = sideA;
                 SideB = sideB;
                 SideC = sideC;
-
-                if (sideA == sideB && sideB == sideC)
+                if (sideA > sideB + sideC || sideB > sideA + sideC || sideC > sideA + sideB)
+                {
+                    MessageBox.Show("The sum of the two sides cannot be less than the length of the third side", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    SideATextBox.Clear();
+                    SideBTextBox.Clear();
+                    SideCTextBox.Clear();
+                    PerimeterCheckBox.IsChecked = false;
+                    AreaCheckBox.IsChecked = false;
+                    MedianCheckBox.IsChecked = false;
+                    BisectorCheckBox.IsChecked = false;
+                }
+                else if (sideA <= 0 || sideB <= 0 || sideC <= 0)
+                {
+                    MessageBox.Show("The value cannot be negative or equal to zero.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    SideATextBox.Clear();
+                    SideBTextBox.Clear();
+                    SideCTextBox.Clear();
+                    PerimeterCheckBox.IsChecked = false;
+                    AreaCheckBox.IsChecked = false;
+                    MedianCheckBox.IsChecked = false;
+                    BisectorCheckBox.IsChecked = false;
+                }
+                else if (sideA == sideB && sideB == sideC)
                 {
                     IsEquilateral = true;
                     MedianCheckBox.Visibility = Visibility.Visible;
@@ -44,6 +66,13 @@ namespace TriangleCalculatorr
             else
             {
                 MessageBox.Show("Invalid input for sides.");
+                SideATextBox.Clear();
+                SideBTextBox.Clear();
+                SideCTextBox.Clear();
+                PerimeterCheckBox.IsChecked = false;
+                AreaCheckBox.IsChecked = false;
+                MedianCheckBox.IsChecked = false;
+                BisectorCheckBox.IsChecked = false;
             }
         }
 

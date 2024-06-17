@@ -20,3 +20,25 @@ D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\TriangleCalculatorr\bin\Deb
 D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\TriangleCalculatorr\bin\Debug\WpfAnimatedGif.pdb
 D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\TriangleCalculatorr\bin\Debug\WpfAnimatedGif.xml
 D:\ПРОГРАММИРОВАНИЕ 2 СЕМЕСТР\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.csproj.CopyComplete
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\bin\Debug\TriangleCalculatorr.exe.config
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\bin\Debug\TriangleCalculatorr.exe
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\bin\Debug\TriangleCalculatorr.pdb
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\bin\Debug\WpfAnimatedGif.dll
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\bin\Debug\WpfAnimatedGif.pdb
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\bin\Debug\WpfAnimatedGif.xml
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.csproj.AssemblyReference.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\InputWindow.baml
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\MainWindow.baml
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\ResultWindow.baml
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\InputWindow.g.cs
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\MainWindow.g.cs
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\ResultWindow.g.cs
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\App.g.cs
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr_MarkupCompile.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.g.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.Properties.Resources.resources
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.csproj.GenerateResource.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.csproj.CoreCompileInputs.cache
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\Triangle.9BF522D9.Up2Date
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.exe
+D:\Users\1213-9\Documents\2-ИСП\РИНАТИК АРК-ВАРДЕНОВИЧ И АНДРЕЙ БЭЙНОВИЧ\Андрейка Шаманович (Я РУССКИИИИЙ) 2 сем\7.2-main\TriangleCalculatorr\obj\Debug\TriangleCalculatorr.pdb

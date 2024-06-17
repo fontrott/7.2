@@ -9,8 +9,6 @@ namespace TriangleCalculatorr
     {
         private double sideA, sideB, sideC;
         private bool calculatePerimeter, calculateArea, calculateMedian, calculateBisector;
-        private bool isEquilateral;
-
         public MainWindow()
         {
             InitializeComponent();
@@ -28,7 +26,6 @@ namespace TriangleCalculatorr
                 calculateArea = inputWindow.CalculateArea;
                 calculateMedian = inputWindow.CalculateMedian;
                 calculateBisector = inputWindow.CalculateBisector;
-                isEquilateral = inputWindow.IsEquilateral;
             }
         }
 
@@ -56,23 +53,23 @@ namespace TriangleCalculatorr
 
         private double CalculatePerimeter()
         {
-            return sideA + sideB + sideC;
+            return Math.Round(sideA + sideB + sideC, 3);
         }
 
         private double CalculateArea()
         {
             double half_Perimeter = CalculatePerimeter() / 2;
-            return Math.Sqrt(half_Perimeter * (half_Perimeter - sideA) * (half_Perimeter - sideB) * (half_Perimeter - sideC));
+            return Math.Round(Math.Sqrt(half_Perimeter * (half_Perimeter - sideA) * (half_Perimeter - sideB) * (half_Perimeter - sideC)), 3);
         }
 
         private double CalculateMedian()
         {
-            return Math.Sqrt(2 * (sideA * sideA + sideB * sideB) - sideC * sideC) / 2;
+            return Math.Round(Math.Sqrt(2 * (sideA * sideA + sideB * sideB) - sideC * sideC) / 2, 3);
         }
 
         private double CalculateBisector()
         {
-            return Math.Sqrt(sideA * sideB * (sideA + sideB + sideC) * (sideA + sideB - sideC)) / (sideA + sideB);
+            return Math.Round(Math.Sqrt(sideA * sideB * (sideA + sideB + sideC) * (sideA + sideB - sideC)) / (sideA + sideB), 3);
         }
     }
 }
